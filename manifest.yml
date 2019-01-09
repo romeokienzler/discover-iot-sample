@@ -5,6 +5,6 @@ applications:
   disk: 128M
   command: node app.js
   path: .
-  domain: mybluemix.net
+  route: mybluemix.net
   memory: 48M
   instances: 1
